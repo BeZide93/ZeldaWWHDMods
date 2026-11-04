@@ -289,6 +289,35 @@
         "minimum": "0.5.0"
       },
       "experimental": true
+    },
+    {
+      "id": "hyrule-survivors",
+      "name": "Hyrule Survivors: Savage Labyrinth",
+      "description": "An experimental six-wave Survivors expedition in a separate copy of Savage Labyrinth floor 1. Native automatic attacks and Link animations, EXP, upgrades, a champion and results. Tap the Survivors button during gameplay or press L + R + Minus.",
+      "version": "0.2.3",
+      "kind": "guest",
+      "setup": [
+        {
+          "id": "build",
+          "type": "build_guest_mod",
+          "title": "Build Hyrule Survivors: Savage Labyrinth for this installation"
+        }
+      ],
+      "authors": [
+        "BeZide93"
+      ],
+      "licences": [
+        "MPL-2.0"
+      ],
+      "builds": [
+        "USA",
+        "EU"
+      ],
+      "requires": [],
+      "port_versions": {
+        "minimum": "0.5.0"
+      },
+      "experimental": true
     }
   ]
 }
